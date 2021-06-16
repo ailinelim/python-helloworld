@@ -7,3 +7,4 @@ docker build -t python-helloworld .
 docker push ailinelim/python-helloworld:v1.0.0
 
 # Access the application on: http://127.0.0.1:6111/
+# Run pytest
