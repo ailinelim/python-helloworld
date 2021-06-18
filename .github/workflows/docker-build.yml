@@ -41,4 +41,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: ailinelim/python-helloworld:latest
+          tags: ailinelim/python-helloworld:v1.1.0
